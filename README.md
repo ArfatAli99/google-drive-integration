@@ -1,4 +1,3 @@
-````markdown
 # Google Drive Integration Project
 
 ## Overview
